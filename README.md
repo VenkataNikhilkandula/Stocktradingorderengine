@@ -212,12 +212,7 @@ Run:
 
 ```bash
 mvn spring-boot:run
-```
 
-OR
-
-```bash
-java -jar target/*.jar
 ```
 
 Application URL:
