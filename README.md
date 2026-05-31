@@ -397,8 +397,3 @@ Examples:
 - Enum validation
 
 ---
-
-5. Open Pull Request
-
----
-
