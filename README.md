@@ -398,30 +398,6 @@ Examples:
 
 ---
 
-
----
-
-# Contributing
-
-1. Fork repository
-2. Create branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit
-
-```bash
-git commit -m "Added feature"
-```
-
-4. Push
-
-```bash
-git push origin feature/new-feature
-```
-
 5. Open Pull Request
 
 ---
